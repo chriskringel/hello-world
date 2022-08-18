@@ -25,4 +25,3 @@ hello-world.bin: main.c
 clean:
 	rm -vi hello-world.bin
 
-
